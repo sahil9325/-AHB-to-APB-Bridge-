@@ -5,7 +5,7 @@
 This project implements an **AMBA AHB-to-APB Bridge** using **SystemVerilog RTL** along with a complete **UVM-based verification environment**.  
 The bridge connects a high-speed **AHB bus** to a low-speed **APB peripheral bus** and interfaces with an **APB SRAM peripheral**.
 
-The project demonstrates:
+The project demonstrates
 - RTL Design
 - Finite State Machine (FSM) based protocol conversion
 - APB SRAM peripheral implementation
